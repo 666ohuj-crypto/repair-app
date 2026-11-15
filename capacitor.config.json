@@ -1,0 +1,8 @@
+{
+  "appId": "com.autodoc.app",
+  "appName": "AutoDoc",
+  "webDir": "public",
+  "android": {
+    "allowMixedContent": false
+  }
+}
